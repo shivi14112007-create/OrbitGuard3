@@ -1,6 +1,6 @@
 {
   "deploy": {
-    "startCommand": "node dist/server/index.mjs",
+    "startCommand": "node dist/server/assets/server-dikrb-0A.js",
     "restartPolicyType": "ON_FAILURE"
   }
 }
