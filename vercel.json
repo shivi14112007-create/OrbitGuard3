@@ -4,10 +4,5 @@
   "framework": null,
   "rewrites": [
     { "source": "/(.*)", "destination": "/dist/server/index.mjs" }
-  ],
-  "functions": {
-    "dist/server/index.mjs": {
-      "includeFiles": "dist/**"
-    }
-  }
+  ]
 }
